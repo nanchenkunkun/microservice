@@ -16,6 +16,7 @@ mybatis:
   type-aliases-package: com.atguigu.springcloud.entities
 eureka:
   client:
+
     fetch-registry: true
     register-with-eureka: true
     service-url:
